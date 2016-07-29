@@ -1,8 +1,6 @@
 #Common Anti-Patterns in CLI Gem Application
 *This video walks through the process of refactoring a CLI Gem fixing common anti-patterns in CLI Gem applications*
 
-*There will be more videos on the process of building a more complex Gem as well as on refactoring and improving a CLI Gem
-
 ## Objectives
 
 1. Define anti-patterns
