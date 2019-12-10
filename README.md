@@ -68,5 +68,3 @@
 
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/oo-ruby-refactoring-cli-gem'>OO Ruby Refactoring CLI Gem </a> on Learn.co and start learning to code for free.</p>
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/oo-ruby-refactoring-cli-gem'>Common Anti-Patterns in CLI Data Gem</a> on Learn.co and start learning to code for free.</p>
