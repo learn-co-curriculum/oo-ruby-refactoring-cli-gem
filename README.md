@@ -1,4 +1,4 @@
-# Common Anti-Patterns in CLI Gem Application
+# Video: Common Anti-Patterns in CLI Gem Application
 
 *This video walks through the process of refactoring a CLI Gem fixing common anti-patterns in CLI Gem applications*
 
