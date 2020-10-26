@@ -64,4 +64,4 @@
 
 [Diff](https://github.com/aviflombaum/techcrunch_cli/compare/pre-refactor...post-refactor?expand=1)
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/oo-ruby-refactoring-cli-gem'>Common Anti-Patterns in CLI Data Gem</a> on Learn.co and start learning to code for free.</p>
+
